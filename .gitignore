@@ -1,6 +1,8 @@
 /node_modules/
 /scripts/
 package-lock.json
+.prettierrc
+rollup.config.js
 
 .DS_Store
 .env
